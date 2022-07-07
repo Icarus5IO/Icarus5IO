@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Icarus5IO
+- 👀 I’m interested in AI structure/development, Game development/programing, Mobile application software
+- 🌱 I’m currently learning basics in Python, C++, programing habits, & programing supportive applications
+- 💞️ I’m open to collaborate on anything.
+- 📫 Reach out to me on my linked in linkedin.com/in/edgar-lopez-gonzalez-b96b10216
